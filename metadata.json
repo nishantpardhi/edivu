@@ -1,0 +1,8 @@
+
+{
+  "name": "EduPulse AI",
+  "description": "An intelligent student management platform featuring AI-driven study paths, academic tracking, fee management, and digital document storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
